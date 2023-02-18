@@ -1,2 +1,2 @@
 # thrillux.github.io
-Website for Thrillux Games
+Website for Thrillux.
